@@ -1,4 +1,4 @@
-import { useEffect, useState } from "react";
+import { useState } from "react";
 import Button from "./button";
 
 export default function Friend({ friend, onSelect, activeFriend }) {
